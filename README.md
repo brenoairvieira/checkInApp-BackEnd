@@ -1,8 +1,5 @@
 
-  
-  Banco de dados - PostgreSQL
-  
-  PgAdmin 4 
+ 
   
   Projeto realizado com SpringBoot
   
